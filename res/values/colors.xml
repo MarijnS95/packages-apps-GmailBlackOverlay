@@ -26,5 +26,4 @@
     <!-- Nav/status bar doesn't work yet -->
     <!-- Was #eb202124 -->
     <color name="ag_status_nav_bars_translucent">#eb000000</color>
-    <color name="ag_status_nav_bars_translucent">#eb000000</color>
 </resources>
