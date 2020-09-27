@@ -23,8 +23,8 @@
         android:targetPackage="com.google.android.gm"
         android:category="android.theme.customization.app_theme"
         android:priority="1"
+        android:isStatic="true"
     />
-    <!-- android:isStatic="true" -->
 
     <application android:label="@string/background_color_black_overlay" android:hasCode="false"/>
 </manifest>
